@@ -1,1 +1,1 @@
-let franco = ["hijo", "hermano", "pelotu", "bolu"];
+let franco = ["hijo", "hermano", "fachero", "lindo", "inteligente"];
